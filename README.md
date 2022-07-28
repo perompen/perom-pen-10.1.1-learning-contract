@@ -1,10 +1,14 @@
 Goals
 
-- I will learn Java by following this course https://www.codecademy.com/learn/learn-java starting on 07/26/22
+- I will learn Java by following these courses: https://www.codecademy.com/learn/learn-java, https://www.codecademy.com/learn/learn-intermediate-java
 
-- I will finish the course linked above by 08/02/22
+- I will utilize video resources such as Youtube for vizual demonstrations
 
-- I will give myself breaks instead of working through them
+- I will study at a pace to retain the infomation and build a foundational understanding
+
+- I will start these Java courses on 07/26/22 and complete by 08/02/22
+
+- I will brainstorm project ideas on 07/29/22
 
 Expectations
 
