@@ -16,3 +16,11 @@ Expectations
 
 - If I’m stuck on a problem for more than 20 minutes, then I will get up and take a walk for a couple
   minutes to clear my head
+
+Project Ideas
+
+- Inventory App
+
+- Pokemon App
+
+- Weather App / To Do List App
